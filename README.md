@@ -3,6 +3,8 @@ jQuery Async Uploader
 
 The purpose of this project it to demonstrate asynchronous file uploads using the native `XMLHttpRequest` object as opposed to using something like Flash.
 
+This is achieved via a combination of a jQuery plug-in used to send the files and a small Express.js project to receive the files.
+
 ## Installation
 
 This project requires an up to date installation of Node.js and the Express.js NPM module.

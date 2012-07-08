@@ -1,4 +1,4 @@
-jquery-async-uploader
+jQuery Async Uploader
 =====================
 
 The purpose of this project it to demonstrate asynchronous file uploads using the native `XMLHttpRequest` object as opposed to using something like Flash.
